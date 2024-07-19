@@ -34,7 +34,7 @@ main {
   width: 285px;
   height: 280px;
   flex-shrink: 0;
-  background: url(/images/drawers.jpg) lightgray 0px 0px / 100% 100% no-repeat;
+  background: url(./images/drawers.jpg) lightgray 0px 0px / 100% 100% no-repeat;
   border-radius: 10px 0 0 10px;
   background-size: cover;
 }
